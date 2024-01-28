@@ -1,0 +1,19 @@
+.cell-full {
+  text-align: center;
+  background-color: #f44336;
+}
+.cell-avalible {
+  text-align: center;
+  background-color: #f0f0f0;
+}
+.cell-unavalible {
+  text-align: center;
+  background-color: #b8b8b8;
+}
+.cell-selected {
+  text-align: center;
+  background-color: #90EE91;
+}
+.hidden-header {
+  display: none;
+}
